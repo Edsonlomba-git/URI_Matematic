@@ -1,8 +1,9 @@
 package Figurinhas;
 
+
 import java.util.Scanner;
 
-public class URI1028 {
+public class URI1028 { // https://www.urionlinejudge.com.br/judge/pt/problems/view/1028
 
 	public static void main(String[] args) {
 //------------------------------------------------------(declaration variable and method)
